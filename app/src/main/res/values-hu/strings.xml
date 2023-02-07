@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZybSolitaire</string>
+    <string name="new_game">Új játék</string>
+    <string name="cont_game">Folytatás</string>
+    <string name="exit">Kilép</string>
+    <string name="game_over">Vége a játéknak</string>
+    <string name="time">Idő</string>
+    <string name="remain">Fenn maradt</string>
+    <string name="restart">Újrakezdés</string>
+
+</resources>

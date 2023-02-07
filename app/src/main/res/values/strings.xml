@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZybSolitaire</string>
+    <string name="new_game">New game</string>
+    <string name="cont_game">Continue</string>
+    <string name="exit">Exit</string>
+    <string name="game_over">Game over</string>
+    <string name="time">Time</string>
+    <string name="remain">Remain</string>
+    <string name="restart">Restart</string>
+</resources>

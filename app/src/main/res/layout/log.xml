@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+>
+    <TextView 
+        android:layout_width="fill_parent"
+        android:layout_weight="0.1"
+        android:layout_height="0dp" 
+        android:id="@+id/cimview"
+        android:gravity="center"
+    />
+                
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_weight="0.9"
+        android:layout_height="0dp" 
+    >
+        <TextView
+            android:singleLine="false"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:id="@+id/textview"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"     
+        />
+    </ScrollView>
+<!--    <Button 
+        android:layout_width="fill_parent"
+        android:layout_weight="0.1"
+        android:layout_height="0dp" 
+        android:text="startAlarm"
+        android:gravity="center"
+        android:onClick="startAlarm"
+    />      
+    <Button 
+        android:layout_width="fill_parent"
+        android:layout_weight="0.1"
+        android:layout_height="0dp" 
+        android:text="Bezár"
+        android:gravity="center"
+        android:onClick="bezar"
+    />    -->
+</LinearLayout>
+
